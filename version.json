@@ -1,6 +1,6 @@
 {
-    "sha256":  "4DE205D05BFC0A9639608A0CD4B7F6F897ED1B9281B1E95754C5BFEE1363733D",
-    "url":  "https://github.com/kloody60/Video-Format-Converter-Releases/releases/download/v8.0/VideoFormatConverter.exe?download=1",
-    "version":  "8.0",
-    "notes":  "كل الأدوات أصبحت مجانية بدون تفعيل. واجهة جديدة بشريط جانبي وأربعة تصاميم مع تبديل فوري، وإعدادات للمظهر والألوان والخط، ومراقبة المعالج وكرت الشاشة والذاكرة، ومثبت جديد."
+    "sha256":  "5C7ADF5F2F036F896164189D75A3FE68FC99E963D4AB64B1B0AABDE857085731",
+    "url":  "https://github.com/kloody60/Video-Format-Converter-Releases/releases/download/v8.2/VideoFormatConverter.exe?download=1",
+    "version":  "8.2",
+    "notes":  "واجهة جديدة بالكامل: صفحة رئيسية، شريط علوي لمراقبة المعالج وكرت الشاشة والذاكرة، صفحة تحويل جديدة مع اختيار الترميز H.264 و H.265 و AV1، مثبت جديد بخطوات، ونظام لغات قابل للتوسيع. كل الأدوات مجانية."
 }
