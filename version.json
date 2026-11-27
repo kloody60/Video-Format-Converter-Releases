@@ -1,6 +1,6 @@
 {
-    "sha256":  "77546774E119FFA2A5FE427F6BB70C4B3BD3E0ED6AB4758C8E1762F7D0D55C7A",
-    "url":  "https://github.com/kloody60/Video-Format-Converter-Releases/releases/download/v8.3/VideoFormatConverter.exe?download=1",
-    "version":  "8.3",
-    "notes":  "واجهة جديدة لتحميل الفيديوهات: تحليل الرابط، صور مصغرة، الجودة، تبويبات القائمة والمكتمل والفاشل، السرعة والوقت المتبقي، وتتبع تصميم البرنامج مباشرة. البرنامج أصغر حجماً."
+    "sha256":  "EF64C4F2B80BAB464FBDDDE6EC7672B55B54C57B8D268915F8B193A39B5CBF2E",
+    "url":  "https://github.com/kloody60/Video-Format-Converter-Releases/releases/download/v8.4/VideoFormatConverter.exe?download=1",
+    "version":  "8.4",
+    "notes":  "تصميم جديد لصفحات رفع الدقة بالذكاء الاصطناعي وترجمة الفيديو وترتيب الملفات: إعدادات أوضح، معلومات الفيديو والعتاد، مراحل الترجمة، ومجموعات التصنيف قبل النقل."
 }
